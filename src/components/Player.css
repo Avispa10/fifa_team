@@ -1,0 +1,6 @@
+.player img {
+    margin: 5px;
+    border-radius: 10px;
+    border-color: grey;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+}
